@@ -7,7 +7,7 @@
 
 1. **Клонирование репозитория:**
     ```bash
-    git clone https://github.com/LeonidSarkisyan/PrivateMoneySave
+    git clone https://github.com/LeonidSarkisyan/PrivateMoneySave/tree/master
     ```
 
 2. **Запуск приложения:**
@@ -19,4 +19,4 @@
 
 ## Способ хранения данных
 
-Все данные хранятся в файле data.json.
+Все данные хранятся в файле data.json (он будет создан автоматически).
